@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Video Editing and Node JS
 - 💞️ I’m looking to collaborate on Software Development and Video Editing
 - 📫 How to reach me? 
-Click this mailto:gunjnkumar07@gmail.com
+Click this gunjnkumar07@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. Honey’s natural properties, including low water content and high acidity, make it an excellent preservative. So, that jar of honey in your pantry will likely outlast many other foods! 🍯🐝
 
