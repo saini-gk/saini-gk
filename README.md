@@ -1,13 +1,21 @@
-- 👋 Hi, I’m @saini-gk aka Gunjan Kumar
-- 👀 I’m interested in Software Development and Video Editing
-- 🌱 I’m currently learning Video Editing and Node JS
-- 💞️ I’m looking to collaborate on Software Development and Video Editing
-- 📫 How to reach me? 
-Click this gunjnkumar07@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. Honey’s natural properties, including low water content and high acidity, make it an excellent preservative. So, that jar of honey in your pantry will likely outlast many other foods! 🍯🐝
+# 👋 Hello, I'm Gunjan Kumar!
 
-<!---
-saini-gk/saini-gk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software developer and video editor based in India. Currently pursuing a B.Tech. in Computer Science and Engineering at the Central University of Haryana.
+
+## 🚀 Skills
+
+- **Languages**: C/C++, PHP, Python, HTML, MySQL
+- **Tools & Technologies**: GitHub, Google Cloud Platform, LinuxOS
+- **Problem Solving**: Solved 130+ LeetCode problems
+
+## 📫 Contact
+
+Feel free to connect with me or drop me a message:
+
+- ✉️ **Email**: [gunjnkumar07@gmail.com](mailto:gunjnkumar07@gmail.com)
+- 🔗 **LinkedIn**: [sainigk](https://www.linkedin.com/in/sainigk)
+- 🔗 **LeetCode**: [sainigk](https://leetcode.com/sainigk)
+
+## 📝 License
+
+This profile README is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**.
