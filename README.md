@@ -16,6 +16,3 @@ Feel free to connect with me or drop me a message:
 - 🔗 **LinkedIn**: [sainigk](https://www.linkedin.com/in/sainigk)
 - 🔗 **LeetCode**: [sainigk](https://leetcode.com/sainigk)
 
-## 📝 License
-
-This profile README is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**.
