@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Library Management System](https://github.com/saini-gk/Library-Management-System)
 
-- 👨‍💻 All of my projects are available at [https://saini-gk.github.io/](https://saini-gk.github.io/)
+- 👨‍💻Here's is my portfolio [https://saini-gk.github.io/](https://saini-gk.github.io/)
 
 - 📫 How to reach me **gunjnkumar07@gmail.com**
 
