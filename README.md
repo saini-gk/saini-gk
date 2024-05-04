@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Gunjan Kumar</h1>
+<h1 align="center">Hey there! 👋 I'm Gunjan Kumar</h1>
 <h3 align="center">A passionate Software Developer and Video Editor based in India.</h3>
 
-- 🔭 I’m currently working on [Discord Bot](https://github.com/saini-gk/Discord-Bot)
+- 🔭 Currently crafting magic with my [Discord Bot](https://github.com/saini-gk/Discord-Bot)
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 Constantly expanding my horizons with **Node JS**
 
-- 👯 I’m looking to collaborate on [Library Management System](https://github.com/saini-gk/Library-Management-System)
+- 👯 Seeking fellow wizards to conjure brilliance on [Library Management System](https://github.com/saini-gk/Library-Management-System)
 
-- 👨‍💻Here's is my portfolio [https://saini-gk.github.io/](https://saini-gk.github.io/)
+- 💼 Explore my enchanted portfolio: [https://saini-gk.github.io/](https://saini-gk.github.io/)
 
-- 📫 How to reach me **gunjnkumar07@gmail.com**
+- 📫 Reach out to me through my spellbook: **gunjnkumar07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
