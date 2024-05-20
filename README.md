@@ -32,6 +32,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saini-gk&" alt="saini-gk" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saini-gk&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saini-gk&show_icons=true&locale=en" alt="Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saini-gk&" alt="saini-gk" /></p>
