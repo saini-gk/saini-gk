@@ -2,11 +2,11 @@
 <h1 align="center">Hey there! 👋 I'm Gunjan Kumar</h1>
 <h3 align="center">A passionate Software Developer and Video Editor based in India.</h3>
 
-- 🔭 Currently crafting magic with my [Discord Bot](https://github.com/saini-gk/Discord-Bot)
+- 🔭 Currently crafting magic with my [MetaMingle](https://github.com/saini-gk/MetaMingle)
 
 - 🌱 Constantly expanding my horizons with **Node JS**
 
-- 👯 Seeking fellow wizards to conjure brilliance on [Library Management System](https://github.com/saini-gk/Library-Management-System)
+- 👯 Seeking fellow wizards to conjure brilliance on [Librix](https://github.com/saini-gk/Librix)
 
 - 💼 Explore my enchanted portfolio: [https://saini-gk.github.io/](https://saini-gk.github.io/)
 
@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saini-gk&show_icons=true&locale=en" alt="Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saini-gk&" alt="Streak" /></p>
+<p><img align="center" src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saini-gk)" alt="Streak" /></p>
