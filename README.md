@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src ="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="100%" height="auto"/>
+<img align="center" alt="Coding" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="100%" height="auto"/>
 <h1 align="center">Hey there! 👋 I'm Gunjan Kumar</h1>
 <h3 align="center">A passionate Software Developer and Video Editor based in India.</h3>
 
@@ -32,8 +32,16 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saini-gk&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<!-- GitHub Stats in Dark Mode -->
+<p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saini-gk&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saini-gk&show_icons=true&locale=en" alt="Stats" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saini-gk&show_icons=true&locale=en&theme=dark" alt="Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saini-gk&" alt="saini-gk" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saini-gk&theme=dark" alt="saini-gk" />
+</p>
+<!-- End of GitHub Stats -->
