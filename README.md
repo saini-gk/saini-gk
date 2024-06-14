@@ -33,8 +33,9 @@
 </p>
 
 <!-- GitHub Stats in Dark Mode -->
+
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saini-gk&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saini-gk&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -44,4 +45,5 @@
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saini-gk&theme=dark" alt="saini-gk" />
 </p>
+
 <!-- End of GitHub Stats -->
