@@ -2,9 +2,9 @@
 <h1 align="center">Hey there! 👋 I'm Gunjan Kumar</h1>
 <h3 align="center">A passionate Software Developer and Video Editor based in India.</h3>
 
-- 🔭 Currently crafting magic with my [MetaMingle](https://github.com/saini-gk/MetaMingle)
+- 🔭 Currently crafting magic with my [DetectronX](https://github.com/saini-gk/DetectronX)
 
-- 🌱 Constantly expanding my horizons with **Node JS**
+- 🌱 Constantly expanding my horizons with **Deep Learning**
 
 - 👯 Seeking fellow wizards to conjure brilliance on [Librix](https://github.com/saini-gk/Librix)
 
