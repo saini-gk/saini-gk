@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" width="100%" height="auto"/>
 <h1 align="center">Hey there! 👋 I'm Gunjan Kumar</h1>
-<h3 align="center">A passionate Software Developer and Video Editor based in India.</h3>
+<h3 align="center">A passionate Software Developer based in India.</h3>
 
 - 🔭 Currently crafting magic with my [DetectronX](https://github.com/saini-gk/DetectronX)
 
