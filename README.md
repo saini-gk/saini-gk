@@ -41,9 +41,3 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=saini-gk&show_icons=true&locale=en&theme=dark" alt="Stats" />
 </p>
-
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saini-gk&theme=dark" alt="saini-gk" />
-</p>
-
-<!-- End of GitHub Stats -->
