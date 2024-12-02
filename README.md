@@ -35,9 +35,9 @@
 <!-- GitHub Stats in Dark Mode -->
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saini-gk&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saini-gk&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="Top Languages" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saini-gk&show_icons=true&locale=en&theme=dark" alt="Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saini-gk&show_icons=true&locale=en&theme=ambient_gradient" alt="Stats" />
 </p>
